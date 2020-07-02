@@ -1,0 +1,4 @@
+Todo list app using Node.js and ejs templating.
+As part of Web Development Bootcamp by the AppBrevery.
+
+Required npm, express, and ejs. Optional nodemon.
