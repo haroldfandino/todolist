@@ -1,4 +1,7 @@
-Todo list app using Node.js and ejs templating.
-As part of Web Development Bootcamp by the AppBrevery.
+Todo list app using Node.js and EJS templating.
+As part of Web Development Bootcamp by the AppBrewery.
 
-Required npm, express, and ejs. Optional nodemon.
+Required modules npm, express, and ejs. Optional nodemon.
+A single npm i will do just fine.
+
+*Now data is stored with Mongoose
